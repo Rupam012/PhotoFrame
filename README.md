@@ -1,12 +1,11 @@
-# PhotoFrame App
+# PhotoFrame 📸🖼️
 
-PhotoFrame is an Android application that allows users to view and navigate through a collection of images using "Next" and "Previous" buttons.
+A simple Java-based application to display some images in a photo frame style.
 
-## Features
-
+## Features ✨
 - **Image Navigation**: Users can cycle through images using intuitive navigation buttons.
 - **Edge-to-Edge Display**: Utilizes Android's Edge-to-Edge feature for an immersive viewing experience.
-
+- **Basic Interface**: A simple UI with an ImageView and two buttons for navigation.
 ## Getting Started
 
 ### Prerequisites
@@ -14,31 +13,42 @@ PhotoFrame is an Android application that allows users to view and navigate thro
 - Android Studio installed on your development machine.
 - An Android device or emulator running Android API level 21 or higher.
 
-### Installation
+## Installation 🛠️
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Rupam012/PhotoFrame.git
-   ```
-2. **Open in Android Studio**:
-   - Launch Android Studio.
-   - Select `File` > `Open` and navigate to the cloned repository's directory.
-   - Click `OK` to open the project.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Rupam012/PhotoFrame.git
+    ```
 
-3. **Build the Project**:
-   - Allow Android Studio to download any necessary dependencies.
-   - Click on the "Build" option to compile the project.
+2. Navigate to the project directory:
+    ```bash
+    cd PhotoFrame
+    ```
 
-4. **Run the Application**:
-   - Connect your Android device or start an emulator.
-   - Click the "Run" button in Android Studio to install and launch the app.
+3. Build the project:
+    ```bash
+    gradle build
+    ```
 
-## Usage
+4. Run the application:
+    ```bash
+    gradle run
+    ```
 
-- **Navigating Images**:
+## Usage 🚀
+ **Navigating Images**:
   - Tap the "Next" button to view the next image in the sequence.
   - Tap the "Previous" button to return to the previous image.
 
-## Acknowledgments
 
-- Thanks to the Android community for continuous support and resources.
+## App Interface 📸
+
+![WhatsApp Image 2025-01-30 at 14 29 04_f5d256d7](https://github.com/user-attachments/assets/bc82c106-2dc4-49d6-bd04-47402927fba2)
+![WhatsApp Image 2025-01-30 at 14 29 04_2a9b5e09](https://github.com/user-attachments/assets/a22a9bee-b865-4f55-ad93-b044c5c03841)
+
+
+
+## Acknowledgments📜
+
+Thanks to the Android community for continuous support and resources. 
+
